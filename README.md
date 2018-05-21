@@ -1,11 +1,3 @@
-<br/>
-<p align="center">
-  <a href="http://devlight.io">
-      <img src ="https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScLVBKck51Z1Rzb0E" alt="Devlight"/>
-  </a>
-</p>
-<br/>
-
 TintLayout
 ========== 
 
